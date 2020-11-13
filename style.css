@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color:coral;
+}
+#img{
+    border-radius: 35%;
+    width: 220px;
+    height: 220px;
+}
+.link {
+    float: right;
+    font-family: 'Dancing Script', cursive;
+    list-style: none;
+    top: 10px;
+    right: 35px;
+    cursor: pointer;
+    color: cornflowerblue;
+    margin: 10px;
+}
+#welcomesection{
+    color: darkcyan;
+}
+.links:hover{
+    color: darkgoldenrod;
+}
+html{
+  scroll-behavior: smooth;
+}
+#ohp1{
+    color: burlywood;
+    font-family: fantasy;
+}
+#ohp2{
+    font-family: monospace;
+    color: cadetblue;
+    font-size: 20px;
+}
